@@ -1,3 +1,4 @@
+[![SaltyFile](https://s1.ax1x.com/2022/08/10/v3MUVU.png)](https://imgtu.com/i/v3MUVU)
 # SaltyFile
 一个局域网文件共享及管理Web应用，使用Rust编写
 
